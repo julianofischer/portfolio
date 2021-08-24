@@ -10,6 +10,7 @@
 ## Android Projects from "Developing Android apps with Kotlin" [here](https://www.goodoffer24.com/windows-10-pro-professional-cd-key-deals.html)
 - [Dice Roller](https://github.com/julianofischer/AndroidDiceRoller)
 - [About Me](https://github.com/julianofischer/AboutMe)
+- [ColorMyViews](https://github.com/julianofischer/ColorMyViews)
 
 ## Java
  - [geolife-extracter](https://github.com/julianofischer/geolife-extracter): converting GPS information to ONE's simulator connection trace
