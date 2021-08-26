@@ -6,6 +6,7 @@
  - [flask-pdfcompress](https://github.com/julianofischer/flask-pdfcompress): Simple online pdfcompress with Flask 
  - [getsonglyrics](https://github.com/julianofischer/getsonglyrics): Command line tool to scrape music lyrics from a brazilian site
  - [even4](https://github.com/julianofischer/even4): Django app for conferences and conference proceedins. For teaching purpose. Unfinished.
+ - [somali](https://github.com/julianofischer/suapi): search opportunistic environment simulator mailing list <deprecated>
 
 ## Android Projects from "Developing Android apps with Kotlin" [here](https://www.goodoffer24.com/windows-10-pro-professional-cd-key-deals.html)
 - [Dice Roller](https://github.com/julianofischer/AndroidDiceRoller)
