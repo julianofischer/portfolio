@@ -23,6 +23,8 @@
  - [geolife-extracter](https://github.com/julianofischer/geolife-extracter): converting GPS information to ONE's simulator connection trace
 
 ##  JS
-- [monster-slayer](https://github.com/julianofischer/monster-slayer): from [this](https://www.udemy.com/course/vuejs-2-the-complete-guide) course
 - [intro-to-python3](https://github.com/julianofischer/intro-to-python3): Python 3 [presentation](https://julianofischer.github.io/intro-to-python3/) made with impress.js
 - [design-thinking](https://github.com/julianofischer/design-thinking): design think [presentation](https://julianofischer.github.io/design-thinking/) made with reveal.js
+
+### Vue.JS
+- [monster-slayer](https://github.com/julianofischer/monster-slayer): from [this](https://www.udemy.com/course/vuejs-2-the-complete-guide) course
