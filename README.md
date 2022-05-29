@@ -10,7 +10,7 @@
  - [suapi](https://github.com/julianofischer/suapi): automatically fill in [SUAP](https://suap.ifro.edu.br) class diaries.
  - [roma-taxi-converter](https://github.com/julianofischer/roma-taxi-converter): convert [roma taxi dataset](https://crawdad.org/roma/taxi/20140717/) to ONE contact trace
 
-## Android Projects from "Developing Android apps with Kotlin" [here](https://www.goodoffer24.com/windows-10-pro-professional-cd-key-deals.html)
+## Android Projects from "[Developing Android apps with Kotlin](https://www.goodoffer24.com/windows-10-pro-professional-cd-key-deals.html)"
 - [Dice Roller](https://github.com/julianofischer/AndroidDiceRoller)
 - [About Me](https://github.com/julianofischer/AboutMe)
 - [ColorMyViews](https://github.com/julianofischer/ColorMyViews)
